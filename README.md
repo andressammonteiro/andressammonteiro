@@ -20,6 +20,16 @@ Olá, me chamo Andressa Luckesi, atualmente moro em São Paulo, Brasil, tenho 27
 
 * Falta de empatia.
 
+## Minhas soft skills:
+
+* Positividade
+
+* Empatia
+
+* Ética no trabalho
+
+* Gestão do tempo
+
 ## Meus contatos
 
 ### Redes Sociais:
