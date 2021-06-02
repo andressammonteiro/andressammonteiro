@@ -32,13 +32,13 @@ Olá, me chamo Andressa Luckesi, atualmente moro em São Paulo, Brasil, tenho 27
 
 ### Redes Sociais:
 
-  <a target="blank" href="https://github.com/fernandoluckesi">
+  <a target="blank" href="https://github.com/andressammonteiro">
     <img align="left" alt="GitHub" width="40px" src="images/github.svg" />
   </a>
-  <a target="_blank" href="https://br.linkedin.com/in/fernando-luckesi">
+  <a target="_blank" href="https://www.linkedin.com/in/andressa-mello-monteiro-luckesi-977b821b1/">
     <img align="left" alt="LinkdeIn" width="40px" src="images/linkedin.svg" />
   </a>
-  <a target="_blank" href="https://www.instagram.com/fernandoluckesi/">
+  <a target="_blank" href="https://www.instagram.com/andressamellomonteiro/">
     <img align="left" alt="Instagram" width="40px" src="images/instagram.svg" />
   </a>
   <br/>
@@ -46,19 +46,8 @@ Olá, me chamo Andressa Luckesi, atualmente moro em São Paulo, Brasil, tenho 27
   
 ### Email:
 
-fernando.luckesi94@gmail.com
+andressa_mmonteiro@hotmail.com
 
 *Caso queira saber mais sobre mim ou perguntar qualquer outra coisa, fique à vontade para me contatar!*
-
-## Hard Skills:
-
-<code><img width="60px" src="images/html.svg"></code>
-<code><img width="60px" src="images/css.svg"></code>
-<code><img width="60px" src="images/js.svg"></code>
-<code><img width="60px" src="images/react.svg"></code>
-<code><img width="60px" src="images/bootstrap.png"></code>
-<code><img width="60px" src="images/adobexd.png"></code>
-<code><img width="60px" src="images/linux.svg"></code>
-<code><img width="60px" src="images/git.svg"></code>
 
 <br/>
