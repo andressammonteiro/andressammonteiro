@@ -18,7 +18,7 @@ Olá, me chamo Andressa Luckesi, atualmente moro em São Paulo, Brasil, tenho 27
 
 * Desigualdade.
 
-* Coisas que eram para funcionar mas não funcionam como esperado. (Na maioria das vezes não desisto até fazer funcionar).
+* 
 
 ## Meus interesses:
 
