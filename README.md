@@ -8,7 +8,7 @@ Olá, me chamo Andressa Luckesi, atualmente moro em São Paulo, Brasil, tenho 27
 
 * Viajar, conhecer novos lugares é algo que me motiva.
 
-* Ler livros, tanto de ficção, quanto científicos.
+* Fazer novas amizades.
 
 * Assistir séries e filmes.
 
@@ -18,15 +18,7 @@ Olá, me chamo Andressa Luckesi, atualmente moro em São Paulo, Brasil, tenho 27
 
 * Desigualdade.
 
-* 
-
-## Meus interesses:
-
-* Atualmente estou no módulo de Back-End no curso da [Trybe](https://www.betrybe.com), aprendendo Banco de Dados com MySQL e MongoDB e no Back-End o framework Express.
-
-* Minha grande paixão é *Front-End*. E estudo cada vez mais para poder desenvolver um site, que além de um layout atrativo, também é intuitivo e de fácil uso para o usuário, tornando a navegação uma experiência agradável à ele.
-
-* Estudo para evoluir como pessoa e também conquistar oportunidades que vão me ajudar a decolar minha carreira como desenvolvedor.
+* Falta de empatia.
 
 ## Meus contatos
 
