@@ -2,9 +2,12 @@
 
 ---
 
-Olá, me chamo Andressa Luckesi, atualmente moro em São Paulo, Brasil, tenho 27 anos e possuo graduação em Ciências Contábeis.
+Olá, me chamo Andressa Luckesi, tenho 27 anos, sou teresopolitana mas atualmente moro em São Paulo, Brasil. Sou formada em Ciências Contábeis desde 2016 e em meados de 2013 comecei a atuar na área contábil em um Escritório de contabilidade. Desde então, trabalho na área de escrita Fiscal.
+Vim morar em São Paulo com o intuito de novas oportunidades e, dentre elas, comecei a me interessar por programação. Estou bem no ínicio do caminho e desistir não é uma opção. Sou o tipo de pessoa que utiliza bem o termo "se der medo, vai com medo mesmo". Não podemos apenas existir, temos que querer mudanças e elas começam a partir de nós mesmos.
 
-## O que gosto:
+## Curiosidades??
+
+## Gosto de:
 
 * Viajar, conhecer novos lugares é algo que me motiva.
 
@@ -12,7 +15,9 @@ Olá, me chamo Andressa Luckesi, atualmente moro em São Paulo, Brasil, tenho 27
 
 * Assistir séries e filmes.
 
-## O que não gosto:
+* Comer pizza e hamburguer.
+
+## Não gosto de:
 
 * Desrespeito.
 
@@ -28,7 +33,8 @@ Olá, me chamo Andressa Luckesi, atualmente moro em São Paulo, Brasil, tenho 27
 
 * Ética no trabalho
 
-* Gestão do tempo
+* Organização
+
 
 ## Meus contatos
 
